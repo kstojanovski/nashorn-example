@@ -1,0 +1,22 @@
+<data>
+	<item id="identifier_0">
+		<value max="30">identifier_00</value>
+		<value min="31" max="60">identifier_01</value>
+		<value min="61">identifier_02</value>
+	</item>
+	<item id="identifier_1">
+		<value max="40">identifier_10</value>
+		<value min="41" max="70">identifier_11</value>
+		<value min="71">identifier_12</value>
+	</item>
+	<item id="identifier_2">
+		<value max="40">identifier_20</value>
+		<value min="41" max="70">identifier_21</value>
+		<value min="71">identifier_22</value>
+	</item>
+	<item id="identifier_3">
+		<value max="40">identifier_30</value>
+		<value min="41" max="70">identifier_31</value>
+		<value min="71">identifier_32</value>
+	</item>
+</data>
